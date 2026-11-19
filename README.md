@@ -13,4 +13,3 @@ The working principle of data analytics begins with data collection from a datas
 # Result
 
 The dataset was successfully analyzed using data analytics techniques. The analysis revealed meaningful patterns, trends, and relationships within the data. Data cleaning improved the accuracy and reliability of the dataset, while visualization made the results easier to understand. The insights obtained from the analysis can be used for effective decision-making, future planning, and improving overall performance. Overall, data analytics transformed raw data into valuable and actionable information.
-# RESULT
